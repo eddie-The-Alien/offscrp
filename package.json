@@ -1,0 +1,22 @@
+{
+  "name": "offscrp",
+  "version": "0.0.5",
+  "description": "\"a scraper to make finding sex offenders across multible states easier\"",
+  "main": "search.js",
+  "scripts": {
+    "test": "search --all first:jhon last:doe"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddie-The-Alien/offscrp.git"
+  },
+  "keywords": [
+    "web-scraper"
+  ],
+  "author": "E_T_A",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eddie-The-Alien/offscrp/issues"
+  },
+  "homepage": "https://github.com/eddie-The-Alien/offscrp#readme"
+}
